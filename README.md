@@ -24,6 +24,10 @@ Ruby Quirks
 
 ### Changelog
 
+#### Version 0.0.2
+
+ - Fixed: Namespace not loading (whoops!)
+
 #### Version 0.0.1
 
  - Initial version of Ruby Quirks
