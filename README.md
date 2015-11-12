@@ -21,3 +21,10 @@ Ruby Quirks
         module CustomHash < Hash
           include RubyQuirks::Hash::EnumByDup
         end
+
+### Changelog
+
+#### Version 0.0.1
+
+ - Initial version of Ruby Quirks
+ - Added: `RubyQuirks::Hash::EnumByDup`
