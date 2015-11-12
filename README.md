@@ -1,7 +1,7 @@
 Ruby Quirks
 ===========
 
-[![Build Status](https://travis-ci.org/StreetEasy/ruby_quirks.svg?branch=master)](https://travis-ci.org/StreetEasy/ruby_quirks) ![Gem Version](https://badge.fury.io/rb/ruby_quirks.svg)
+[![Build Status](https://travis-ci.org/delner/ruby_quirks.svg?branch=master)](https://travis-ci.org/delner/ruby_quirks) ![Gem Version](https://badge.fury.io/rb/ruby_quirks.svg)
 ###### *For Ruby 1.9.3, 2.0.x, 2.1.x, 2.2.x*
 
 ### Introduction

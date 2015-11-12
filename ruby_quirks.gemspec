@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.version       = RubyQuirks::VERSION
   s.authors       = ["David Elner"]
   s.email         = ["david@streeteasy.com"]
-  s.homepage      = "http://streeteasy.com"
+  s.homepage      = "https://github.com/delner/ruby_quirks"
   s.summary       = "Hotfixes and common idioms for the Ruby language."
   s.description   = "Hotfixes and common idioms for the Ruby language."
   s.license       = "MIT"
